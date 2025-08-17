@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git and GitHub are different control systems.Initially difficult day by day easier with practice
+=======
+git and GitHub are different control systems.It is very difficult to understand learn wisely do the practice combined rather than alone to develop your ideas
+>>>>>>> c823ed2ee585a8651fe0b730aa4a286434dcfea4
